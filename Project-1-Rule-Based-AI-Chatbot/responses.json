@@ -1,0 +1,64 @@
+{
+    "hello": [
+        "Hello! 👋 Nice to meet you.",
+        "Hi there! 😊 How can I help you today?",
+        "Hey! Welcome to DecodeBot."
+    ],
+
+    "hi": [
+        "Hi! 👋",
+        "Hello there!",
+        "Hey! How are you?"
+    ],
+
+    "hey": [
+        "Hey! 😊 What's up?",
+        "Hello! How can I help you?",
+        "Hey there! Welcome!"
+    ],
+
+    "good morning": [
+        "Good morning! ☀️ Have a great day!",
+        "Good morning! How can I help you today?"
+    ],
+
+    "good evening": [
+        "Good evening! 🌙 How can I help you?",
+        "Good evening! Nice to see you."
+    ],
+
+    "how are you": [
+        "I'm doing great! Thanks for asking. 😊",
+        "I'm doing well! How can I help you?"
+    ],
+
+    "what is your name": [
+        "I'm DecodeBot, a Rule-Based AI Chatbot. 🤖"
+    ],
+
+    "who are you": [
+        "I'm DecodeBot, your rule-based AI assistant. 🤖",
+        "I'm DecodeBot! I respond using predefined rules."
+    ],
+
+    "help": [
+        "I can respond to greetings, simple questions, and thanks.",
+        "Try saying: hello, how are you, who are you, thanks, or bye."
+    ],
+
+    "thanks": [
+        "You're welcome! 😊",
+        "Happy to help!",
+        "Anytime! 👍"
+    ],
+
+    "thank you": [
+        "You're very welcome! 😊",
+        "My pleasure!"
+    ],
+
+    "bye": [
+        "Goodbye! 👋 Have a great day!",
+        "See you later! 😊"
+    ]
+}
