@@ -1,0 +1,1 @@
+2- From the table look at the no, of hosts that will satisty the largest subnet, For LAN 2 you will need 4 Subnets each with 64 hosts and prefix of This will to LAN2 | 4 | | 4 | | 4 | | From Step 2 we have assigned the first subnet for LAN 2 and we have 3 unused subnets nut the of subnets can be used Repeat Step 2 for the rest of needed subnets,

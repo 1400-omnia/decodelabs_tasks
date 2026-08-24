@@ -1,0 +1,882 @@
+{
+    "image": "document_clean.jpg",
+    "confidence_threshold": 80,
+    "average_confidence": 92.64,
+    "accepted_words": 109,
+    "rejected_words": 59,
+    "text": "Data Analysis Report Dataset Overview contains medical records collected from patients who booked appolntments centers, Information suchas patientage, gender, medicat dates, and whether the the Objective main objective of this to explore the dataset, data dean the data, important patterns, and understand the factors appolatmentattendance. Data Exploration explored using the Pandas library to structure and The following analyses were performed: the number of rows the data types of whether there were any missing values, summaries for the numerical Data Cleaning Several data quality checks were performed: were the dataset. records were detected. age value was identified and because itis not avalid and were converted to the datetime datatype for",
+    "detections": [
+        {
+            "text": "Data",
+            "confidence": 88.0,
+            "x": 83,
+            "y": 15,
+            "width": 49,
+            "height": 18
+        },
+        {
+            "text": "Analysis",
+            "confidence": 88.0,
+            "x": 137,
+            "y": 13,
+            "width": 91,
+            "height": 25
+        },
+        {
+            "text": "Report",
+            "confidence": 96.0,
+            "x": 235,
+            "y": 15,
+            "width": 75,
+            "height": 22
+        },
+        {
+            "text": "Dataset",
+            "confidence": 96.0,
+            "x": 82,
+            "y": 66,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "text": "Overview",
+            "confidence": 95.0,
+            "x": 163,
+            "y": 64,
+            "width": 93,
+            "height": 18
+        },
+        {
+            "text": "contains",
+            "confidence": 92.0,
+            "x": 159,
+            "y": 105,
+            "width": 56,
+            "height": 33
+        },
+        {
+            "text": "medical",
+            "confidence": 92.0,
+            "x": 216,
+            "y": 115,
+            "width": 51,
+            "height": 13
+        },
+        {
+            "text": "records",
+            "confidence": 81.0,
+            "x": 360,
+            "y": 115,
+            "width": 49,
+            "height": 13
+        },
+        {
+            "text": "collected",
+            "confidence": 95.0,
+            "x": 413,
+            "y": 115,
+            "width": 57,
+            "height": 13
+        },
+        {
+            "text": "from",
+            "confidence": 96.0,
+            "x": 473,
+            "y": 115,
+            "width": 30,
+            "height": 13
+        },
+        {
+            "text": "patients",
+            "confidence": 93.0,
+            "x": 506,
+            "y": 115,
+            "width": 51,
+            "height": 16
+        },
+        {
+            "text": "who",
+            "confidence": 93.0,
+            "x": 560,
+            "y": 115,
+            "width": 27,
+            "height": 13
+        },
+        {
+            "text": "booked",
+            "confidence": 94.0,
+            "x": 591,
+            "y": 115,
+            "width": 48,
+            "height": 13
+        },
+        {
+            "text": "appolntments",
+            "confidence": 88.0,
+            "x": 81,
+            "y": 138,
+            "width": 89,
+            "height": 15
+        },
+        {
+            "text": "centers,",
+            "confidence": 92.0,
+            "x": 258,
+            "y": 140,
+            "width": 50,
+            "height": 11
+        },
+        {
+            "text": "Information",
+            "confidence": 94.0,
+            "x": 381,
+            "y": 133,
+            "width": 74,
+            "height": 25
+        },
+        {
+            "text": "suchas",
+            "confidence": 93.0,
+            "x": 458,
+            "y": 138,
+            "width": 47,
+            "height": 13
+        },
+        {
+            "text": "patientage,",
+            "confidence": 91.0,
+            "x": 508,
+            "y": 138,
+            "width": 74,
+            "height": 16
+        },
+        {
+            "text": "gender,",
+            "confidence": 96.0,
+            "x": 585,
+            "y": 138,
+            "width": 48,
+            "height": 16
+        },
+        {
+            "text": "medicat",
+            "confidence": 82.0,
+            "x": 81,
+            "y": 160,
+            "width": 50,
+            "height": 13
+        },
+        {
+            "text": "dates,",
+            "confidence": 94.0,
+            "x": 297,
+            "y": 150,
+            "width": 36,
+            "height": 33
+        },
+        {
+            "text": "and",
+            "confidence": 96.0,
+            "x": 341,
+            "y": 150,
+            "width": 17,
+            "height": 33
+        },
+        {
+            "text": "whether",
+            "confidence": 96.0,
+            "x": 362,
+            "y": 160,
+            "width": 53,
+            "height": 13
+        },
+        {
+            "text": "the",
+            "confidence": 93.0,
+            "x": 418,
+            "y": 160,
+            "width": 21,
+            "height": 13
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 549,
+            "y": 161,
+            "width": 21,
+            "height": 12
+        },
+        {
+            "text": "Objective",
+            "confidence": 96.0,
+            "x": 82,
+            "y": 224,
+            "width": 74,
+            "height": 18
+        },
+        {
+            "text": "main",
+            "confidence": 89.0,
+            "x": 109,
+            "y": 267,
+            "width": 31,
+            "height": 13
+        },
+        {
+            "text": "objective",
+            "confidence": 95.0,
+            "x": 143,
+            "y": 267,
+            "width": 57,
+            "height": 17
+        },
+        {
+            "text": "of",
+            "confidence": 96.0,
+            "x": 203,
+            "y": 267,
+            "width": 12,
+            "height": 13
+        },
+        {
+            "text": "this",
+            "confidence": 92.0,
+            "x": 219,
+            "y": 267,
+            "width": 23,
+            "height": 13
+        },
+        {
+            "text": "to",
+            "confidence": 96.0,
+            "x": 312,
+            "y": 269,
+            "width": 13,
+            "height": 11
+        },
+        {
+            "text": "explore",
+            "confidence": 96.0,
+            "x": 328,
+            "y": 267,
+            "width": 47,
+            "height": 16
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 378,
+            "y": 268,
+            "width": 20,
+            "height": 12
+        },
+        {
+            "text": "dataset,",
+            "confidence": 86.0,
+            "x": 404,
+            "y": 257,
+            "width": 47,
+            "height": 33
+        },
+        {
+            "text": "data",
+            "confidence": 96.0,
+            "x": 507,
+            "y": 267,
+            "width": 28,
+            "height": 13
+        },
+        {
+            "text": "dean",
+            "confidence": 90.0,
+            "x": 630,
+            "y": 267,
+            "width": 34,
+            "height": 13
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 81,
+            "y": 290,
+            "width": 21,
+            "height": 13
+        },
+        {
+            "text": "data,",
+            "confidence": 93.0,
+            "x": 107,
+            "y": 280,
+            "width": 28,
+            "height": 33
+        },
+        {
+            "text": "important",
+            "confidence": 93.0,
+            "x": 197,
+            "y": 290,
+            "width": 64,
+            "height": 16
+        },
+        {
+            "text": "patterns,",
+            "confidence": 91.0,
+            "x": 263,
+            "y": 290,
+            "width": 84,
+            "height": 16
+        },
+        {
+            "text": "and",
+            "confidence": 95.0,
+            "x": 327,
+            "y": 280,
+            "width": 20,
+            "height": 33
+        },
+        {
+            "text": "understand",
+            "confidence": 95.0,
+            "x": 351,
+            "y": 290,
+            "width": 71,
+            "height": 13
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 426,
+            "y": 290,
+            "width": 20,
+            "height": 13
+        },
+        {
+            "text": "factors",
+            "confidence": 95.0,
+            "x": 449,
+            "y": 290,
+            "width": 42,
+            "height": 13
+        },
+        {
+            "text": "appolatmentattendance.",
+            "confidence": 84.0,
+            "x": 81,
+            "y": 312,
+            "width": 161,
+            "height": 16
+        },
+        {
+            "text": "Data",
+            "confidence": 96.0,
+            "x": 82,
+            "y": 358,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "text": "Exploration",
+            "confidence": 95.0,
+            "x": 133,
+            "y": 356,
+            "width": 113,
+            "height": 22
+        },
+        {
+            "text": "explored",
+            "confidence": 92.0,
+            "x": 185,
+            "y": 406,
+            "width": 55,
+            "height": 16
+        },
+        {
+            "text": "using",
+            "confidence": 92.0,
+            "x": 244,
+            "y": 396,
+            "width": 31,
+            "height": 33
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 283,
+            "y": 396,
+            "width": 17,
+            "height": 33
+        },
+        {
+            "text": "Pandas",
+            "confidence": 91.0,
+            "x": 305,
+            "y": 407,
+            "width": 47,
+            "height": 12
+        },
+        {
+            "text": "library",
+            "confidence": 88.0,
+            "x": 356,
+            "y": 406,
+            "width": 41,
+            "height": 16
+        },
+        {
+            "text": "to",
+            "confidence": 93.0,
+            "x": 400,
+            "y": 408,
+            "width": 13,
+            "height": 11
+        },
+        {
+            "text": "structure",
+            "confidence": 96.0,
+            "x": 490,
+            "y": 408,
+            "width": 56,
+            "height": 11
+        },
+        {
+            "text": "and",
+            "confidence": 95.0,
+            "x": 550,
+            "y": 406,
+            "width": 24,
+            "height": 13
+        },
+        {
+            "text": "The",
+            "confidence": 91.0,
+            "x": 643,
+            "y": 396,
+            "width": 26,
+            "height": 33
+        },
+        {
+            "text": "following",
+            "confidence": 93.0,
+            "x": 81,
+            "y": 419,
+            "width": 57,
+            "height": 33
+        },
+        {
+            "text": "analyses",
+            "confidence": 95.0,
+            "x": 145,
+            "y": 419,
+            "width": 53,
+            "height": 33
+        },
+        {
+            "text": "were",
+            "confidence": 96.0,
+            "x": 203,
+            "y": 419,
+            "width": 26,
+            "height": 33
+        },
+        {
+            "text": "performed:",
+            "confidence": 93.0,
+            "x": 234,
+            "y": 429,
+            "width": 72,
+            "height": 16
+        },
+        {
+            "text": "the",
+            "confidence": 95.0,
+            "x": 207,
+            "y": 456,
+            "width": 18,
+            "height": 33
+        },
+        {
+            "text": "number",
+            "confidence": 95.0,
+            "x": 232,
+            "y": 456,
+            "width": 44,
+            "height": 33
+        },
+        {
+            "text": "of",
+            "confidence": 96.0,
+            "x": 281,
+            "y": 466,
+            "width": 12,
+            "height": 13
+        },
+        {
+            "text": "rows",
+            "confidence": 94.0,
+            "x": 300,
+            "y": 456,
+            "width": 29,
+            "height": 33
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 185,
+            "y": 480,
+            "width": 17,
+            "height": 33
+        },
+        {
+            "text": "data",
+            "confidence": 95.0,
+            "x": 210,
+            "y": 480,
+            "width": 25,
+            "height": 33
+        },
+        {
+            "text": "types",
+            "confidence": 95.0,
+            "x": 237,
+            "y": 480,
+            "width": 34,
+            "height": 33
+        },
+        {
+            "text": "of",
+            "confidence": 95.0,
+            "x": 276,
+            "y": 490,
+            "width": 11,
+            "height": 13
+        },
+        {
+            "text": "whether",
+            "confidence": 94.0,
+            "x": 178,
+            "y": 513,
+            "width": 52,
+            "height": 12
+        },
+        {
+            "text": "there",
+            "confidence": 96.0,
+            "x": 233,
+            "y": 513,
+            "width": 33,
+            "height": 12
+        },
+        {
+            "text": "were",
+            "confidence": 96.0,
+            "x": 269,
+            "y": 516,
+            "width": 30,
+            "height": 9
+        },
+        {
+            "text": "any",
+            "confidence": 94.0,
+            "x": 302,
+            "y": 516,
+            "width": 23,
+            "height": 13
+        },
+        {
+            "text": "missing",
+            "confidence": 88.0,
+            "x": 330,
+            "y": 504,
+            "width": 45,
+            "height": 30
+        },
+        {
+            "text": "values,",
+            "confidence": 85.0,
+            "x": 380,
+            "y": 504,
+            "width": 48,
+            "height": 30
+        },
+        {
+            "text": "summaries",
+            "confidence": 90.0,
+            "x": 292,
+            "y": 536,
+            "width": 71,
+            "height": 13
+        },
+        {
+            "text": "for",
+            "confidence": 96.0,
+            "x": 366,
+            "y": 536,
+            "width": 18,
+            "height": 13
+        },
+        {
+            "text": "the",
+            "confidence": 92.0,
+            "x": 387,
+            "y": 536,
+            "width": 21,
+            "height": 13
+        },
+        {
+            "text": "numerical",
+            "confidence": 92.0,
+            "x": 411,
+            "y": 536,
+            "width": 63,
+            "height": 13
+        },
+        {
+            "text": "Data",
+            "confidence": 96.0,
+            "x": 82,
+            "y": 581,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "text": "Cleaning",
+            "confidence": 96.0,
+            "x": 133,
+            "y": 579,
+            "width": 87,
+            "height": 23
+        },
+        {
+            "text": "Several",
+            "confidence": 84.0,
+            "x": 81,
+            "y": 630,
+            "width": 46,
+            "height": 13
+        },
+        {
+            "text": "data",
+            "confidence": 96.0,
+            "x": 130,
+            "y": 630,
+            "width": 28,
+            "height": 13
+        },
+        {
+            "text": "quality",
+            "confidence": 95.0,
+            "x": 165,
+            "y": 620,
+            "width": 41,
+            "height": 33
+        },
+        {
+            "text": "checks",
+            "confidence": 95.0,
+            "x": 211,
+            "y": 620,
+            "width": 40,
+            "height": 33
+        },
+        {
+            "text": "were",
+            "confidence": 95.0,
+            "x": 255,
+            "y": 620,
+            "width": 29,
+            "height": 33
+        },
+        {
+            "text": "performed:",
+            "confidence": 96.0,
+            "x": 288,
+            "y": 630,
+            "width": 72,
+            "height": 16
+        },
+        {
+            "text": "were",
+            "confidence": 96.0,
+            "x": 245,
+            "y": 658,
+            "width": 26,
+            "height": 33
+        },
+        {
+            "text": "the",
+            "confidence": 88.0,
+            "x": 332,
+            "y": 668,
+            "width": 20,
+            "height": 13
+        },
+        {
+            "text": "dataset.",
+            "confidence": 84.0,
+            "x": 355,
+            "y": 668,
+            "width": 52,
+            "height": 13
+        },
+        {
+            "text": "records",
+            "confidence": 80.0,
+            "x": 210,
+            "y": 681,
+            "width": 46,
+            "height": 33
+        },
+        {
+            "text": "were",
+            "confidence": 95.0,
+            "x": 262,
+            "y": 681,
+            "width": 25,
+            "height": 33
+        },
+        {
+            "text": "detected.",
+            "confidence": 91.0,
+            "x": 292,
+            "y": 691,
+            "width": 60,
+            "height": 13
+        },
+        {
+            "text": "age",
+            "confidence": 81.0,
+            "x": 202,
+            "y": 718,
+            "width": 19,
+            "height": 13
+        },
+        {
+            "text": "value",
+            "confidence": 81.0,
+            "x": 227,
+            "y": 710,
+            "width": 30,
+            "height": 25
+        },
+        {
+            "text": "was",
+            "confidence": 95.0,
+            "x": 287,
+            "y": 718,
+            "width": 25,
+            "height": 9
+        },
+        {
+            "text": "identified",
+            "confidence": 83.0,
+            "x": 315,
+            "y": 714,
+            "width": 61,
+            "height": 13
+        },
+        {
+            "text": "and",
+            "confidence": 93.0,
+            "x": 379,
+            "y": 715,
+            "width": 24,
+            "height": 12
+        },
+        {
+            "text": "because",
+            "confidence": 96.0,
+            "x": 465,
+            "y": 715,
+            "width": 52,
+            "height": 12
+        },
+        {
+            "text": "itis",
+            "confidence": 91.0,
+            "x": 520,
+            "y": 715,
+            "width": 21,
+            "height": 13
+        },
+        {
+            "text": "not",
+            "confidence": 93.0,
+            "x": 544,
+            "y": 716,
+            "width": 21,
+            "height": 12
+        },
+        {
+            "text": "avalid",
+            "confidence": 91.0,
+            "x": 568,
+            "y": 715,
+            "width": 40,
+            "height": 12
+        },
+        {
+            "text": "and",
+            "confidence": 93.0,
+            "x": 251,
+            "y": 737,
+            "width": 23,
+            "height": 13
+        },
+        {
+            "text": "were",
+            "confidence": 89.0,
+            "x": 454,
+            "y": 727,
+            "width": 26,
+            "height": 33
+        },
+        {
+            "text": "converted",
+            "confidence": 96.0,
+            "x": 487,
+            "y": 737,
+            "width": 59,
+            "height": 13
+        },
+        {
+            "text": "to",
+            "confidence": 96.0,
+            "x": 551,
+            "y": 739,
+            "width": 13,
+            "height": 11
+        },
+        {
+            "text": "the",
+            "confidence": 96.0,
+            "x": 567,
+            "y": 737,
+            "width": 20,
+            "height": 13
+        },
+        {
+            "text": "datetime",
+            "confidence": 93.0,
+            "x": 591,
+            "y": 737,
+            "width": 59,
+            "height": 13
+        },
+        {
+            "text": "datatype",
+            "confidence": 92.0,
+            "x": 126,
+            "y": 760,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "text": "for",
+            "confidence": 90.0,
+            "x": 188,
+            "y": 759,
+            "width": 19,
+            "height": 13
+        }
+    ]
+}
