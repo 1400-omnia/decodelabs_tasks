@@ -10,6 +10,7 @@ A collection of AI, Machine Learning, and Computer Vision projects completed dur
 | 2️⃣ | **Iris Flower Classification** | [▶️ Watch Demo](https://youtu.be/hwHDhDRqR4c) |
 | 3️⃣ | **Career Match AI** | [▶️ Watch Demo](https://youtu.be/OYTDEVjkctE) |
 | 4️⃣ | **OCR Image Recognition Pipeline** | [▶️ Watch Demo](https://youtu.be/mYx4EB6KVG4) |
+
 🛠️ Technologies
 
 Python · Pandas · Scikit-learn · OpenCV · Tkinter · Streamlit · Tesseract OCR · TF-IDF · Cosine Similarity
