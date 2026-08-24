@@ -2,14 +2,14 @@
 
 A collection of AI, Machine Learning, and Computer Vision projects completed during my Artificial Intelligence Internship at DecodeLabs.
 
-🚀 Projects
+## 🚀 Projects
 
-Task| Project| Demo
-1️⃣| Rule-Based AI Chatbot| "▶️ Watch Demo" (https://youtube.com/shorts/f6qaiDCptMQ?si=G_le82PJGjoUh_t7)
-2️⃣| Iris Flower Classification| "▶️ Watch Demo" (https://youtu.be/hwHDhDRqR4c)
-3️⃣| Career Match AI| "▶️ Watch Demo" (https://youtu.be/OYTDEVjkctE)
-4️⃣| OCR Image Recognition Pipeline| "▶️ Watch Demo" (https://youtu.be/mYx4EB6KVG4)
-
+| Task | Project | Demo |
+|------|---------|------|
+| 1️⃣ | **Rule-Based AI Chatbot** | [▶️ Watch Demo](https://youtube.com/shorts/f6qaiDCptMQ?si=G_le82PJGjoUh_t7) |
+| 2️⃣ | **Iris Flower Classification** | [▶️ Watch Demo](https://youtu.be/hwHDhDRqR4c) |
+| 3️⃣ | **Career Match AI** | [▶️ Watch Demo](https://youtu.be/OYTDEVjkctE) |
+| 4️⃣ | **OCR Image Recognition Pipeline** | [▶️ Watch Demo](https://youtu.be/mYx4EB6KVG4) |
 🛠️ Technologies
 
 Python · Pandas · Scikit-learn · OpenCV · Tkinter · Streamlit · Tesseract OCR · TF-IDF · Cosine Similarity
